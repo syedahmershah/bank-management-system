@@ -29,7 +29,7 @@ The system ensures that user data is maintained in a file and can be accessed or
 To get started with the Bank Management System, follow these steps:
 
 1. **Clone the repository**:
-   git clone https://github.com/ahmershah29/bank-management-system.git
+   git clone https://github.com/syedahmershah/bank-management-system.git
 
 2. **Compile the code using a C++ compiler (e.g., g++)**:
 g++ main.cpp -o bank_management
